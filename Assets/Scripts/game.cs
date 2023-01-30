@@ -5,6 +5,9 @@ using TMPro;
 
 public class game : MonoBehaviour
 {
+
+
+    public static string winner;
     public GameObject object1, object2, object3, object4, boat;
     private int diceRoll;
     public bool object1Reached, object2Reached, object3Reached, object4Reached;

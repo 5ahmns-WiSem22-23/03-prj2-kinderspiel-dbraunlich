@@ -1,18 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class EndScenemanager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public Text status;
+
+    private void Start()
     {
-        
+        status.text = game.winner == "boat" ? "Das Boot hat gewonnen" : "Die Fische haben gewonnen";
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PressRestart()
     {
-        
+        SceneManager.LoadScene("StartScene");
     }
+
+
 }
