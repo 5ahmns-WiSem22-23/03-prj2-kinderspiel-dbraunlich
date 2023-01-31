@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/gamescene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/EndScene.unity
+    path: Assets/Scenes/FischerEnd.unity
     guid: d14d7b3f433d8874fb9543136a15ce13
+  - enabled: 1
+    path: Assets/Scenes/FischeEnd.unity
+    guid: 55bd4a2ab8461a34d8309877d7afdf9f
+  - enabled: 1
+    path: Assets/Scenes/Unentschieden.unity
+    guid: c3344cdbbb3f8d34a965243f997e5971
   m_configObjects: {}

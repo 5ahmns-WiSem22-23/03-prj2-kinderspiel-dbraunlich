@@ -475,7 +475,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Status
+  m_Text: Fische gewinnen!
 --- !u!222 &1966655678
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -693,6 +693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2b6e15861a17cb40b1f2aef2bbf30b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  status: {fileID: 0}
 --- !u!4 &2127813952
 Transform:
   m_ObjectHideFlags: 0
