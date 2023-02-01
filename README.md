@@ -12,7 +12,9 @@ Der Farbwürfel bestimmt, ob das Boot oder die Fische ziehen dürfen. Sind am En
 Es gibt mehrere Möglichkeiten, das Spiel zu beenden:
 
 1.Drei Fische erreichen das Meer. Die Fisch-Freunde gewinnen.
+
 2.Drei Fische werden gefangen. Die Fischer-Fans gewinnen.
+
 3.Zwei Fische erreichen das Meer und 2 Fische werden gefangen. Unentschieden
 
 ### Screenshot:
