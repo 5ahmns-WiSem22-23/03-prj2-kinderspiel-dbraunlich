@@ -14,4 +14,9 @@ Es gibt mehrere Möglichkeiten, das Spiel zu beenden:
 1.Drei Fische erreichen das Meer. Die Fisch-Freunde gewinnen.
 2.Drei Fische werden gefangen. Die Fischer-Fans gewinnen.
 3.Zwei Fische erreichen das Meer und 2 Fische werden gefangen. Unentschieden
+
+#Screenshot:
+
+![image](https://user-images.githubusercontent.com/72389971/216014004-ae57cf26-2fc9-45b2-80e4-3fcba3308e85.png)
+
  
